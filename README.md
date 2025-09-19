@@ -1,4 +1,4 @@
-Rhythmic tune Demo link video: https://drive.google.com/file/d/19DyxJnFYPxHc6lrdjOl8e5bcokY7XZY4/view?usp=sharing
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
